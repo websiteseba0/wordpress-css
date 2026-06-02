@@ -4,8 +4,6 @@ Personal repository of CSS snippets I use while building WordPress websites for 
 
 # 🎨 WordPress & Elementor CSS Snippets – Ultimate Collection
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-
 A free, constantly updated collection of battle-tested CSS codes and snippets for **WordPress** and **Elementor**. A curated set of ready-to-use solutions to quickly enhance your website's design without installing plugins.
 
 ## 📑 Table of Contents
@@ -57,3 +55,4 @@ If these snippets saved you some time, please drop a **Star (⭐)** in the top r
 
 ## 📜 License
 This project is open-source and licensed under the **MIT License** – feel free to use these snippets in both personal and commercial projects for your clients. 
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
