@@ -1,4 +1,4 @@
-# 🎨 WordPress & Elementor CSS Snippets – Ultimate Collection
+# 🎨 WordPress & Elementor CSS Snippets – Collection
 
 A free, constantly updated collection of battle-tested CSS codes and snippets for **WordPress** and **Elementor**. A curated set of ready-to-use solutions to quickly enhance your website's design without installing plugins.
 
