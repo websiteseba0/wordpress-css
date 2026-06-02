@@ -6,7 +6,7 @@ function test() {
 }
 ```
 
-'''
+```
 /* ===== Modern Table Styles ===== */
 table.has-fixed-layout {
   width: 100% !important;
@@ -102,4 +102,4 @@ table.has-fixed-layout a:hover {
   color: rgb(233, 69, 96) !important;
   border-color: rgb(233, 69, 96) !important;
 }
-'''
+```
