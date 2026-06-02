@@ -1,10 +1,9 @@
-# wordpress-css
-Personal repository of CSS snippets I use while building WordPress websites for my clients. My stack is based on Elementor as main framework. I don't use standard templates but creating everything from scratch. Empty WordPress looks quite shitty, so over years I created repository of **CSS fix patches** that solve most of visual problems while using pure [Elementor PRO](https://elementor.com/products/website-builder/). 
-
-
 # 🎨 WordPress & Elementor CSS Snippets – Ultimate Collection
 
 A free, constantly updated collection of battle-tested CSS codes and snippets for **WordPress** and **Elementor**. A curated set of ready-to-use solutions to quickly enhance your website's design without installing plugins.
+
+Personal repository of CSS snippets I use while building WordPress websites for my clients. My stack is based on Elementor as main framework. I don't use standard templates but creating everything from scratch. Empty WordPress looks quite shitty, so over years I created repository of **CSS fix patches** that solve most of visual problems while using pure [Elementor PRO](https://elementor.com/products/website-builder/). 
+
 
 ## 📑 Table of Contents
 - [Why use these snippets?](#why-use-these-snippets)
