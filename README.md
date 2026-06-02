@@ -47,8 +47,8 @@ Most of these snippets are Copy & Paste.
 Hi, I'm **Sebastian**. I'm a web designer, digital marketer, and SEO specialist. I specialize in building fast, high-converting websites, setting up precise analytics, and executing data-driven marketing strategies. I run my own projects and affiliate sites, and I love sharing transparent, real-world experiments from the field.
 
 **Where to find me:**
-* 🌐 **My Agency / Services:** [[Strona Biznesu](https://stronabiznesu.pl/)]
-* ✍️ **Deep Dives & Insights (Substack):** [Insert Your Substack Link Here]
+* 🌐 **My Agency / Services:** [Strona Biznesu](https://stronabiznesu.pl/)
+* ✍️ **Deep Dives & Insights (Substack):** [Substack Link Here]
 * 🐦 **Follow My Live Experiments:** [Twitter](https://x.com/sbko7) 
 
 If these snippets saved you some time, please drop a **Star (⭐)** in the top right corner of this repository!
